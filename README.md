@@ -1,1 +1,1 @@
-# Laptop-Price-Prediction-Machine-Learnig
+# Laptop-Price-Prediction-Machine-Learning
